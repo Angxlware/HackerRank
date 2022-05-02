@@ -1,2 +1,2 @@
-# https://www.hackerrank.com/Angxlware?hr_r=1
+# HackerRank
 Solutions for HackerRank challenges
